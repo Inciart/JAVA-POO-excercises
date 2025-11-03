@@ -1,0 +1,5 @@
+{
+  "name": "Java OOP Exercise Solver",
+  "description": "An interactive web application that generates a Java solution for a basic Object-Oriented Programming exercise involving worker salaries and bonuses, and explains the core concepts used.",
+  "requestFramePermissions": []
+}
